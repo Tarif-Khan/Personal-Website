@@ -1,0 +1,17 @@
+.myRow {
+    display: flex;
+    flex-direction: row;
+    padding-right: 35px;
+  }
+  
+  .col {
+    flex: 1 0;
+  }
+  
+  .content {
+    background-color: #f5f7f9;
+    padding: 10px;
+    display: flex;
+    height: 100%;
+  }
+  
